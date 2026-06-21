@@ -1,0 +1,12 @@
+Hello.
+
+I am developing custom blocks for a Minecraft Bedrock 1.26.30 server using PowerNukkitX:
+https://github.com/PowerNukkitX/PowerNukkitX
+
+I managed to get my custom blocks to appear in the world, but I cannot get their textures to work correctly. Instead of the actual textures, the blocks show the black-and-magenta missing texture pattern.
+
+Could someone please help me figure out what I am doing wrong?
+
+I will attach all project files so that everything can be checked.
+
+Thank you!
