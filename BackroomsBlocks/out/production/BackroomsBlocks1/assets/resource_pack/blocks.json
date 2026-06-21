@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.0",
+
+  "backrooms:yellow_wallpaper": {
+    "sound": "stone"
+  },
+
+  "backrooms:ceiling_tile": {
+    "sound": "stone"
+  },
+
+  "backrooms:damp_carpet": {
+    "sound": "cloth"
+  }
+}

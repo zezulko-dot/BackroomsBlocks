@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Backrooms RP",
+    "description": "Yellow wallpaper, ceiling tiles and damp carpet for Backrooms blocks",
+    "uuid": "7b2c1c1a-2f3a-4c2b-9a1d-111111111111",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "9f3d2c4e-6a11-4c88-8a22-222222222222",
+      "version": [1, 0, 0]
+    }
+  ]
+}

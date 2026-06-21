@@ -1,0 +1,5 @@
+name: BackroomsBlocks
+main: me.kotiki.backrooms.Main
+version: 1.0
+api:
+  - "2.0.0"
